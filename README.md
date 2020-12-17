@@ -1,2 +1,0 @@
-# NewsAppOldApproach
-Using Loaders, JsonExtraction
